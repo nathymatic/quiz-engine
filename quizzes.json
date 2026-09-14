@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rust Basics",
+        "category": {
+            "name": "Programming",
+            "questions": [
+                {
+                    "text": "What does Option<T> represent in Rust?",
+                    "answers": [
+                        "A value that may be absent",
+                        "A mutable reference",
+                        "A collection",
+                        "A guaranteed value"
+                    ],
+                    "correctIndex": 0
+                }
+            ]
+        }
+    }
+]

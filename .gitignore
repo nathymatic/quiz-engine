@@ -1,0 +1,12 @@
+target/
+
+.vscode/
+.idea/
+
+*.iml
+*.class
+
+.DS_Store
+Thumbs.db
+
+.github/modernize/
